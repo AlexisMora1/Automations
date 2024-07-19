@@ -1,0 +1,53 @@
+Comprobante de
+transferencia
+Autorizaci?n Martes, 16 jul 2024 02:18 pm
+(hora de CDMX)
+
+
+$25.00 Monto
+
+Concepto       Leticia Gloria 8130000000
+
+Tipo de transferencia              SPEI
+
+Transferencia gratuita
+
+N?mero de referencia           123456
+
+
+
+Cuenta origen
+
+Nombre   LETICIA ALFREDA GLORIA SANCHEZ
+
+Entidad
+
+CLABE                   ....2224
+
+
+
+Cuenta destino
+
+Nombre           pROPIETARIO DE LA CUENTA
+
+Entidad
+
+CLABE                     1838
+
+Aceptada EStatus
+
+Clave de
+rastreo
+
+
+
+
+Nu M?xico Financiera, S.A. de C.V., Sociedad
+Financiera popular
+
+
+6696d58a-6a8d-4f54-a509-6f74bfbfeff2
+Referencia interna
+
+M?s informaci?n
+
